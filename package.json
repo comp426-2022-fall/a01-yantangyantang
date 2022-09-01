@@ -1,0 +1,22 @@
+{
+  "name": "ty9",
+  "version": "0.0.1",
+  "description": "A webserver for COMP426 built on Node.js by yan",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js --port=9999"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-fall/a01-yantangyantang.git"
+  },
+  "author": "@yantang",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-fall/a01-yantangyantang/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-fall/a01-yantangyantang#readme",
+  "dependencies": {
+    "minimist": "^1.2.6"
+  }
+}
